@@ -1,1 +1,0 @@
-cmd_/home/oem/kernel_process_09/thread_showall.ko := ld -r  -m elf_x86_64 -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/oem/kernel_process_09/thread_showall.ko /home/oem/kernel_process_09/thread_showall.o /home/oem/kernel_process_09/thread_showall.mod.o;  true

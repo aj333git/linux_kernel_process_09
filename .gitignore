@@ -1,0 +1,10 @@
+# Ignore build artifacts
+*.o
+*.ko
+*.mod
+*.mod.c
+*.cmd
+modules.order
+Module.symvers
+cac
+
